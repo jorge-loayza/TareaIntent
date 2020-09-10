@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TareaIntent</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="descripcion_contacto">Descripcion Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="email">Email</string>
+    <string name="intentNombre">nombre</string>
+    <string name="intentDia">dia</string>
+    <string name="intentMes">mes</string>
+    <string name="intentYear">year</string>
+    <string name="intentTelefono">telefono</string>
+    <string name="intentEmail">email</string>
+    <string name="intentDescripcion">descripcion</string>
+    <string name="mensajeLlenadoDatos">Ingrese todos los datos</string>
+    <string name="txtDescripcion">Descripción:</string>
+</resources>
